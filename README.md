@@ -1,6 +1,6 @@
 # Civil-Risk
 
-## ✅ Risk Assessment (Flood & Structural) Checklist
+## ✅ Risk Assessment (Flood & Structural) Checklist(Type x inside [ ], to mark complete)
 
 ### 1️⃣ Data
 - [ ] Use water level data  
